@@ -16,6 +16,13 @@
 
 ---
 
+## 🏆 Competitive Programming
+
+- **LeetCode**: [Akshat101](https://leetcode.com/Akshat101)
+- **HackerRank**: [tiwariakshat101](https://www.hackerrank.com/tiwariakshat101)
+  
+---
+
 ## 📈 GitHub Stats
 
 ![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshat287&show_icons=true&theme=radical)
@@ -28,14 +35,7 @@
 
 ---
 
-## 🏆 Competitive Programming
-
-- **LeetCode**: [Akshat101](https://leetcode.com/Akshat101)
-- **HackerRank**: [tiwariakshat101](https://www.hackerrank.com/tiwariakshat101)
-
----
-
-## 📫 Reach Me
+## 📫 Let's Connect 
 
 - **LinkedIn**: [Akshat Tiwari](https://linkedin.com/in/akshat-tiwari-b5344226a)
 - **Email**: [akshattiwari101@gmail.com](mailto:akshattiwari101@gmail.com)
