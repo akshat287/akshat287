@@ -37,5 +37,5 @@
 
 ## 📫 Let's Connect 
 
-- **LinkedIn**: [Akshat Tiwari](https://linkedin.com/in/akshat-tiwari-b5344226a)
-- **Email**: [akshattiwari101@gmail.com](mailto:tiwariakshat101@gmail.com)
+- **LinkedIn**: [Akshat Tiwari](https://linkedin.com/in/tiwari101)
+- **Email**: [tiwariakshat101@gmail.com](mailto:tiwariakshat101@gmail.com)
